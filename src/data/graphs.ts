@@ -27,4 +27,5 @@ export const graphs = [
   'f(x)=(0.5x + 1)! + 0.2x',
   'f(x)=\\frac{(x + 2)!}{x + 1} - 0.3*\\sin(x)',
   'f(x)=1/x * \\cos(x) + x!',
+  'f(x)=\\sqrt\\{sin(x)} + x'
 ]
